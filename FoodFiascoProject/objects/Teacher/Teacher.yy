@@ -11,8 +11,8 @@
   "name":"Teacher",
   "overriddenProperties":[],
   "parent":{
-    "name":"TemplateObjs",
-    "path":"folders/Objects/TemplateObjs.yy",
+    "name":"characters",
+    "path":"folders/Objects/characters.yy",
   },
   "parentObjectId":null,
   "persistent":false,

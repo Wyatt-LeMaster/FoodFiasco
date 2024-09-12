@@ -10,8 +10,8 @@
   "name":"Student1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Students",
-    "path":"folders/Objects/Students.yy",
+    "name":"characters",
+    "path":"folders/Objects/characters.yy",
   },
   "parentObjectId":null,
   "persistent":false,
